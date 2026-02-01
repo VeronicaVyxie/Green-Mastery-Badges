@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Green Mastery Borders
 // @namespace    RetroAchievements
-// @version      1.0.0
+// @version      1.0.1
 // @description  green :3
 // @author       VeronicaVyxie
 // @match        https://retroachievements.org/user/*
