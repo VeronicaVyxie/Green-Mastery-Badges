@@ -9,6 +9,7 @@
 // @exclude      https://retroachievements.org/user/*/posts
 // @exclude      https://retroachievements.org/user/*/games
 // @exclude      https://retroachievements.org/user/*/developer
+// @exclude      https://retroachievements.org/user/*/developer/*
 // @exclude      https://retroachievements.org/user/*/tickets
 // @run-at       document-start
 // @icon         https://static.retroachievements.org/assets/images/favicon.webp
